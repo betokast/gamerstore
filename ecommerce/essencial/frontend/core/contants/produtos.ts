@@ -28,7 +28,7 @@ const produtos: Produto[] = [
     },
     {
         id: 2,
-        nome: 'Notebook Gamer Acer Nitro 5',
+        nome: 'Notebook Gamer Dell G5',
         descricao: 'O Acer Nitro 5 é um notebook gamer poderoso, ideal para jogos',
         marca: 'Acer',
         modelo: 'AN515-54-58CL',
@@ -53,7 +53,7 @@ const produtos: Produto[] = [
     },
     {
         id: 3,
-        nome: 'Notebook Gamer Acer Nitro 5',
+        nome: 'Notebook Gamer Lenovo Legion Y540',
         descricao: 'O Acer Nitro 5 é um notebook gamer poderoso, ideal para jogos',
         marca: 'Acer',
         modelo: 'AN515-54-58CL',
@@ -78,7 +78,7 @@ const produtos: Produto[] = [
     },
     {
         id: 4,
-        nome: 'Notebook Gamer Acer Nitro 5',
+        nome: 'Notebook Gamer HP Pavilion',
         descricao: 'O Acer Nitro 5 é um notebook gamer poderoso, ideal para jogos',
         marca: 'Acer',
         modelo: 'AN515-54-58CL',
